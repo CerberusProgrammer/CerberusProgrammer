@@ -5,9 +5,8 @@ Hi! I'm a weeb programmer. My name is Omar, but you can call me Kashi.
 - 60% English 🗽
 - 10% Japanese 🍣
 
-# Programming Languages
-## Java
-### Technologies
+# Programming Languages 
+## Java Technologies
 - Java 8
 - OpenJDK12
 - JavaFX
@@ -15,12 +14,10 @@ Hi! I'm a weeb programmer. My name is Omar, but you can call me Kashi.
 - Gradle
 - SpringBoot
 
-## Python
-### Technologies
+## Python Technologies
 - PyQt5
 
-## JavaScript
-### Technologies
+## JavaScript Technologies
 - Angular
 - Angular Material
 - Electron.js
