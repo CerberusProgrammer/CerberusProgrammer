@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @CerberusProgrammer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi! I'm a weeb programmer. My name is Omar, but you can call me Kashi.
 
-<!---
-CerberusProgrammer/CerberusProgrammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Languages
+- 100% Spanish (Native mexican) 🌮
+- 60% English 🗽
+- 10% Japanese 🍣
+
+# Programming Languages
+## Java
+### Technologies
+- Java 8
+- OpenJDK12
+- JavaFX
+- MaterialFX
+- Gradle
+- SpringBoot
+
+## Python
+### Technologies
+- PyQt5
+
+## JavaScript
+### Technologies
+- Angular
+- Angular Material
+- Electron.js
