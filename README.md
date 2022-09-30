@@ -6,7 +6,7 @@ Hi! I'm a weeb programmer. My name is Omar, but you can call me Kashi.
 - 10% Japanese 🍣
 
 # Programming Languages 
-##Dart Technologies
+## Dart Technologies
 - Flutter
 - Firebase
 - Material Design
